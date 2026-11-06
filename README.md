@@ -17,4 +17,6 @@ El proyecto forma parte de un trabajo académico y presenta una propuesta de mej
 
 ## Declaración de uso de inteligencia artificial
 
-Se utilizó ChatGPT como apoyo para contrastar la coherencia entre el proceso de trazabilidad, el diccionario de datos y los indicadores de desempeño. Se solicitó identificar inconsistencias respecto de las consignas y explicar posibles ajustes. Las observaciones obtenidas se toman como propuestas para su revisión con el material de la cátedra.
+Se utilizó ChatGPT como apoyo para revisar la coherencia del trabajo y detectar aspectos a mejorar. Uno de los pedidos realizados fue: “Revisar si el trabajo cumple con las consignas e identificar posibles correcciones en el proceso de trazabilidad, el diccionario de datos y los indicadores”.
+
+Las respuestas se tomaron como orientaciones y fueron revisadas por el alumno. A partir de las observaciones recibidas, se corrigió el diagrama BPMN, prestando especial atención a la representación de los actores externos Cliente y Aduana. La selección y aplicación de las correcciones quedó a cargo del alumno.
